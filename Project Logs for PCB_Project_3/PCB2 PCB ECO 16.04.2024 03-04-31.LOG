@@ -1,0 +1,7 @@
+Change Component Comment : Designator=J1 Old Comment=3 New Comment=SJ1-3523N
+Change Component Designator: OldDesignator=R_f NewDesignator=R_feedback
+Added Pin To Net: NetName=MASS Pin=PTH1-3
+Added Pin To Net: NetName=MASS Pin=PTH2-3
+Added Pin To Net: NetName=MASS Pin=PTH3-3
+Added Pin To Net: NetName=MASS Pin=PTH4-3
+Added Net: Name=MASS

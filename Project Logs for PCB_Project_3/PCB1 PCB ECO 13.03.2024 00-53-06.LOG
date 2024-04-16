@@ -1,0 +1,20 @@
+Add Component: Footprint Not Found SOT95P280X145-6N
+Added Component: Designator=BT?(BAT_BC9VPC)
+Add component (AddParameter): Name = "Case/Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BC9VPC/Memory+Protection+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Design Item ID"; Value = "BC9VPC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MPD (Memory Protection Devices)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BC9VPC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BC9VPC/Memory+Protection+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Source"; Value = "BC9VPC.SchLib"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin B?-1
+Add Pin To Net: Unknown Pin: Pin B?-2
+Add Pin To Net: Unknown Pin: Pin B?-3
+Add Pin To Net: Unknown Pin: Pin B?-6
+Added Pin To Net: NetName=GND Pin=BT?-N
+Added Pin To Net: NetName=+9 Pin=BT?-P
+Add Class Member: Failed to add class member : Component B? MAX2606EUT+T
+Added Member To Class: ClassName=Sheet1 Member=Component BT? BC9VPC

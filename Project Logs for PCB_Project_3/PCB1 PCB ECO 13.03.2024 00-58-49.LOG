@@ -1,0 +1,12 @@
+Added Component: Designator=B?(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.co.uk/datasheet/2/256/MAX2605-MAX2609-1515582.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MAX2606EUT+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "700-MAX2606EUTT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices-Maxim-Integrated/MAX2606EUT%2bT?qs=GxOUx7aO6nxQrK5ySdDhWg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetB?_1 Pin=B?-1
+Added Pin To Net: NetName=GND Pin=B?-2
+Added Pin To Net: NetName=NetB?_3 Pin=B?-3
+Added Pin To Net: NetName=VCO_out Pin=B?-6
+Added Member To Class: ClassName=Sheet1 Member=Component B? MAX2606EUT+T

@@ -16,11 +16,8 @@ This project is a DIY FM transmitter that allows you to broadcast audio from you
 ![FM Transmitter Circuit](schemat.png)
 *Figure 1: Circuit diagram of the FM transmitter.*
 
-![Assembled FM Transmitter](images/assembled_fm_transmitter.jpg)
+![Assembled FM Transmitter](pcb.png)
 *Figure 2: Assembled FM transmitter on a breadboard.*
-
-![Transmitting Audio](images/transmitting_audio.jpg)
-*Figure 3: Broadcasting audio from a smartphone using the FM transmitter.*
 
 ## Getting Started
 

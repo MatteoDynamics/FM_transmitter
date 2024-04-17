@@ -9,11 +9,11 @@ This project is a DIY FM transmitter that allows you to broadcast audio from you
 - **Adjustable Frequency**: Tune the transmitter to any FM frequency within the legal range.
 - **Compact Design**: The circuit is designed to be compact and portable, making it easy to carry around.
 - **Compatible with Various Audio Sources**: Connect your smartphone, MP3 player, or any audio source with a standard headphone jack.
-- **Low Power Consumption**: Operates on low voltage and consumes minimal power.
+- **Low Power Consumption**: Operates on low voltage with high power output for longer range
 
 ## Images
 
-![FM Transmitter Circuit](images/fm_transmitter_circuit.jpg)
+![FM Transmitter Circuit](C:\Users\Matteo\Downloads\schemat.png)
 *Figure 1: Circuit diagram of the FM transmitter.*
 
 ![Assembled FM Transmitter](images/assembled_fm_transmitter.jpg)

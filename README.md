@@ -13,7 +13,7 @@ This project is a DIY FM transmitter that allows you to broadcast audio from you
 
 ## Images
 
-![FM Transmitter Circuit](C:\Users\Public\Documents\Altium\FM_transmitter\images\schemat.png)
+![FM Transmitter Circuit](images\schemat.png)
 *Figure 1: Circuit diagram of the FM transmitter.*
 
 ![Assembled FM Transmitter](images/assembled_fm_transmitter.jpg)

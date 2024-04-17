@@ -5,10 +5,9 @@ This project is a DIY FM transmitter that allows you to broadcast audio from you
 
 ## Features
 
-- **Easy to Build**: The transmitter circuit uses commonly available components and can be assembled on a breadboard.
 - **Adjustable Frequency**: Tune the transmitter to any FM frequency within the legal range.
 - **Compact Design**: The circuit is designed to be compact and portable, making it easy to carry around.
-- **Compatible with Various Audio Sources**: Connect your smartphone, MP3 player, or any audio source with a standard headphone jack.
+- **Compatible with Various Audio Sources**: Connect your smartphone, MP3 player, or any audio source with a minijack 3.5mm.
 - **Low Power Consumption**: Operates on low voltage with high power output for longer range
 
 ## Images
@@ -18,31 +17,23 @@ This project is a DIY FM transmitter that allows you to broadcast audio from you
 
 ![Assembled FM Transmitter](pcb.png)
 
-*Figure 2: Assembled FM transmitter on a breadboard.*
+*Figure 2: Assembled FM transmitter on a PCB.*
 
 ## Getting Started
 
 To build the FM transmitter, follow these steps:
 
 1. Gather all the necessary components listed in the materials section.
-2. Connect the components according to the circuit diagram provided.
-3. Tune your FM radio to an empty frequency.
-4. Connect your audio source to the transmitter and start broadcasting.
+2. Route the components according to the circuit diagram provided.
+3. Order your PCB in one of manufacturers (my choice was JLC PCB)
+4. Tune your FM radio to an empty frequency using potentiometer.
+5. Connect your audio source to the transmitter and start broadcasting in range of 80-110Mhz.
 
 For detailed instructions and troubleshooting tips, refer to the [documentation](docs/instructions.md).
 
 ## Materials
 
-- Breadboard
-- Resistors (100Ω, 1kΩ, 10kΩ)
-- Capacitors (10μF, 100nF)
-- Transistor (e.g., BC548)
-- Inductor (e.g., 22μH)
-- Antenna (length according to the desired frequency)
-- Audio cable (3.5mm jack)
-- Power source (3-12V)
-
-For a complete list of components and where to source them, see the [components list](docs/components.md).
+For a complete list of components and where to source them, see the [components list](FM_transmitter.BomDoc).
 
 ## License
 

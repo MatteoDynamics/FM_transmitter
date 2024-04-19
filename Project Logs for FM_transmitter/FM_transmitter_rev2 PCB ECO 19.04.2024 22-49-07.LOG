@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=GND Pin=Q1-G
+Change Component Designator: OldDesignator=B1 NewDesignator=U3
+Change Component Designator: OldDesignator=B2 NewDesignator=U4
+Change Component Designator: OldDesignator=R_f NewDesignator=R_feedback
+Added Component: Designator=R3(RESC0402(1005)_L)
+Add component (AddParameter): Name = "Case/Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "63mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R3-2
+Change Net Name : Old Net Name=NetB1_4 New Net Name=NetR15_1
+Change Net Name : Old Net Name=NetB1_6 New Net Name=NetR14_1
+Change Net Name : Old Net Name=NetB2_2 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetB2_6 New Net Name=NetC6_1
+Added Pin To Net: NetName=NetQ1_G Pin=Q1-G
+Added Pin To Net: NetName=NetQ1_G Pin=R3-1
+Added Net: Name=NetQ1_G
+Added Class: Name=Sheet1
